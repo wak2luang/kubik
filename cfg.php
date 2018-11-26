@@ -1,15 +1,15 @@
 <?php
-$android_id = "2d7c8xxxxxxxx";
-$deviceCode = "8660cxxxxxxxx";
-$device_ip  = "116.2xxxxxxxx";
-$token = "680atvthz0hMTxxxxxxxxx";
-$tk = "ACBvc-8tqVBNcrExxxxxxxx";
-$uuid = "5e9129e17b53xxxxxxxxxxx";
-$userid = "3953xx";
-$sign = "dda2654011xxxxxxxxxx";
+$android_id = "xxxxxxxxxx";
+$deviceCode = "xxxxxxxxxx";
+$device_ip  = "xxxxxxxxxx";
+$token = "xxxxccxxxxxxxxx";
+$tk = "xxxxxxccccxxxxxxxx";
+$uuid = "xxxxxxxxxxxxxxxx";
+$userid = "xxxxxxxxxxxxxx";
+$sign = "xxxxxxxxxxxxxxxx";
 
 ####################################################
-#|Subscribe: Youtube.com/Segi3Channel
+#|Subscribe: Youtube.com/wak2luang
 #| *Untuk Kolom Token Silahkan Isi
 #|  dengan Code (Authorization)
 #| *untuk aktifitas nuyul multi akun
